@@ -10,3 +10,5 @@ Register及びProxy機能を持ったsip serverのサンプルです。
 X-lite4などのSIPフォンを使って接続テストを行ってみてください。
 仕組みの詳細は http://d.hatena.ne.jp/nishio-dens/ に書く予定です。
 
+= Usage
+ruby sip_server.rb IPAddress
