@@ -1,0 +1,12 @@
+= Sample SIP Server
+
+This is a sample of sip server which implements register and proxy.
+Let's connect this server using SIP phone like X-lite4.
+I will write an article about this sample at http://d.hatena.ne.jp/nishio-dens/.
+
+= SIP Serverのサンプル
+
+Register及びProxy機能を持ったsip serverのサンプルです。
+X-lite4などのSIPフォンを使って接続テストを行ってみてください。
+仕組みの詳細は http://d.hatena.ne.jp/nishio-dens/ に書く予定です。
+
